@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+  <panel>
+    <number>1</number>
+    <image>https://1069thelodge.com/images/Credible_Artists-Rot.jpg</image>
+    <url>https://1069thelodge.com/listen</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>2</number>
+    <image>https://1069thelodge.com/images/10at10-Rot.png</image>
+    <url>https://1069thelodge.com/programs/10at10</url>
+    <redirect>n</redirect>
+  </panel>
+  
+  <panel>
+    <number>3</number>
+    <image>https://1069thelodge.com/images/Lab-Rot.png</image>
+    <url>https://1069thelodge.com/events/events-calendar</url>
+    <redirect>n</redirect>
+  </panel>
+  
+<panel>
+    <number>4</number>
+    <image>https://1069thelodge.com/images/Med_Min-Rot.png</image>
+    <url>https://1069thelodge.com/events/community</url>
+    <redirect>n</redirect>
+  </panel>
+  
+</rotator>
