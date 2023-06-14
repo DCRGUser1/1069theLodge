@@ -4,28 +4,28 @@
 
   <panel>
     <number>1</number>
-    <image>https://1069thelodge.com/images/Credible_Artists-Rot.jpg</image>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/Credible%20Artists-Rot.jpg?raw=true</image>
     <url>https://1069thelodge.com/listen</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>2</number>
-    <image>https://1069thelodge.com/images/10at10-Rot.png</image>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/10at10-Rot.png?raw=true</image>
     <url>https://1069thelodge.com/programs/10at10</url>
     <redirect>n</redirect>
   </panel>
   
   <panel>
     <number>3</number>
-    <image>https://1069thelodge.com/images/Lab-Rot.png</image>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/Lab-Rot.png?raw=true</image>
     <url>https://1069thelodge.com/events/events-calendar</url>
     <redirect>n</redirect>
   </panel>
   
 <panel>
     <number>4</number>
-    <image>https://1069thelodge.com/images/Med_Min-Rot.png</image>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/Med%20Min-Rot.png?raw=true</image>
     <url>https://1069thelodge.com/events/community</url>
     <redirect>n</redirect>
   </panel>
