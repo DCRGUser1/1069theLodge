@@ -4,8 +4,8 @@
 
   <panel>
     <number>1</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/Credible%20Artists-Rot.jpg?raw=true</image>
-    <url>https://1069thelodge.com/listen</url>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CredibleArtists-Rot.png?raw=true</image>
+    <url>https://1069thelodge.com/events/lodge-concert-calendar</url>
     <redirect>n</redirect>
   </panel>
   
@@ -25,7 +25,7 @@
   
 <panel>
     <number>4</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/Med%20Min-Rot.png?raw=true</image>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/MedMin-Rot.png?raw=true</image>
     <url>https://1069thelodge.com/events/community</url>
     <redirect>n</redirect>
   </panel>
