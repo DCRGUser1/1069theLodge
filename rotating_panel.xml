@@ -1,33 +1,57 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 
-<rotator>
+-<rotator>
 
-  <panel>
-    <number>1</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CredWebRot.png?raw=true</image>
-    <url>https://1069thelodge.com/events/lodge-concert-calendar</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>2</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/TenWebRot.png?raw=true</image>
-    <url>https://1069thelodge.com/programs/10at10</url>
-    <redirect>n</redirect>
-  </panel>
-  
-  <panel>
-    <number>3</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/LABWebRot.png?raw=true</image>
-    <url>https://1069thelodge.com/events/events-calendar</url>
-    <redirect>n</redirect>
-  </panel>
-  
-<panel>
-    <number>4</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/MedWebRot.png?raw=true</image>
-    <url>https://1069thelodge.com/events/community</url>
-    <redirect>n</redirect>
-  </panel>
-  
+
+-<panel>
+
+<number>1</number>
+
+<image>https://github.com/DCRGUser1/1069theLodge/blob/main/CredWebRot.png?raw=true</image>
+
+<url>https://1069thelodge.com/events/lodge-concert-calendar</url>
+
+<redirect>n</redirect>
+
+</panel>
+
+
+-<panel>
+
+<number>2</number>
+
+<image>https://github.com/DCRGUser1/1069theLodge/blob/main/TenWebRot.png?raw=true</image>
+
+<url>https://1069thelodge.com/programs/10at10</url>
+
+<redirect>n</redirect>
+
+</panel>
+
+
+-<panel>
+
+<number>3</number>
+
+<image>https://github.com/DCRGUser1/1069theLodge/blob/main/LABWebRot.png?raw=true</image>
+
+<url>https://1069thelodge.com/events/events-calendar</url>
+
+<redirect>n</redirect>
+
+</panel>
+
+
+-<panel>
+
+<number>4</number>
+
+<image>https://github.com/DCRGUser1/1069theLodge/blob/main/MedWebRot.png?raw=true</image>
+
+<url>https://1069thelodge.com/events/community</url>
+
+<redirect>n</redirect>
+
+</panel>
+
 </rotator>
