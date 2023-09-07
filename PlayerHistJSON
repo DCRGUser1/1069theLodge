@@ -1,0 +1,9 @@
+{
+"iss": "2abd9838-94bb-4b5d-a0a9-e8fc56c528c5", 
+"iat": 1528407600,
+"exp": 1528408800,
+"aud": "appstoreconnect-v1",
+"scope": [ 
+		 "GET https://api.music.apple.com/v1/me/recent/played"  
+	]
+}
