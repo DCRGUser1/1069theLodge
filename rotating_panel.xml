@@ -15,19 +15,20 @@
     <url>https://www.doorcounty.com/hospitality-hero-giveaway/thank-you</url>
     <redirect>n</redirect>
   </panel>
-  
-   <panel>
+ 
+  <panel>
     <number>3</number>
+  <image>https://github.com/DCRGUser1/1069theLodge/blob/main/XmasMusicWknds.png?raw=true</image>
+    <url>https://1069thelodge.com/listen</url>
+    <redirect>n</redirect>
+  </panel>
+   
+  <panel>
+    <number>4</number>
     <image>https://github.com/DCRGUser1/1069theLodge/blob/main/LABWebRot.png?raw=true</image>
     <url>https://1069thelodge.com/events/events-calendar</url>
     <redirect>n</redirect>
   </panel>
-  
-<panel>
-    <number>4</number>
-  <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CredWebRot.png?raw=true</image>
-    <url>https://1069thelodge.com/listen</url>
-    <redirect>n</redirect>
-  </panel>
+
   
 </rotator>
