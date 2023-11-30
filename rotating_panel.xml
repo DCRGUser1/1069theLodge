@@ -30,5 +30,11 @@
     <redirect>n</redirect>
   </panel>
 
-  
+ <panel>
+    <number>5</number>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CherryDropRot7th.png?raw=true</image>
+    <url>https://1069thelodge.com/events/cherry-drop</url>
+    <redirect>n</redirect>
+  </panel>
+
 </rotator>
