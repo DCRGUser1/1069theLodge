@@ -9,10 +9,10 @@
     <redirect>n</redirect>
   </panel>
   
-  <panel>
+<panel>
     <number>2</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/DDC-Hospitality%20Hero_display%20ad-640x200-cta.jpg?raw=true</image>
-    <url>https://www.doorcounty.com/hospitality-hero-giveaway/thank-you</url>
+    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CherryDropRot7th.png?raw=true</image>
+    <url>https://1069thelodge.com/events/cherry-drop</url>
     <redirect>n</redirect>
   </panel>
  
@@ -30,11 +30,5 @@
     <redirect>n</redirect>
   </panel>
 
- <panel>
-    <number>5</number>
-    <image>https://github.com/DCRGUser1/1069theLodge/blob/main/CherryDropRot7th.png?raw=true</image>
-    <url>https://1069thelodge.com/events/cherry-drop</url>
-    <redirect>n</redirect>
-  </panel>
 
 </rotator>
