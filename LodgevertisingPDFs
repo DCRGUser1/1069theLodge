@@ -1,0 +1,59 @@
+<object
+ <number>1</number>
+	data="document.pdf"
+	type="application/pdf"
+	width="50%"
+	height="50%"
+>
+	<iframe
+		src="https://github.com/DCRGUser1/1069theLodge/blob/main/Current%20Rates%20Sheet.pdf"
+		width="50%"
+		height="50%"
+		style="border: none"
+	>
+		<p>
+			Your browser does not support PDFs.
+			<a href="document.pdf">Download the PDF</a>
+		</p>
+	</iframe>
+</object>
+
+<object
+ <number>2</number>
+	data="document.pdf"
+	type="application/pdf"
+	width="50%"
+	height="50%"
+>
+	<iframe
+		src="https://github.com/DCRGUser1/1069theLodge/blob/main/Example%20Schedule.pdf"
+		width="50%"
+		height="50%"
+		style="border: none"
+	>
+		<p>
+			Your browser does not support PDFs.
+			<a href="document.pdf">Download the PDF</a>
+		</p>
+	</iframe>
+</object>
+
+<object
+ <number>3</number>
+	data="document.pdf"
+	type="application/pdf"
+	width="50%"
+	height="50%"
+>
+	<iframe
+		src="https://github.com/DCRGUser1/1069theLodge/blob/main/2023-24%20Event%20Package.pdf"
+		width="50%"
+		height="50%"
+		style="border: none"
+	>
+		<p>
+			Your browser does not support PDFs.
+			<a href="document.pdf">Download the PDF</a>
+		</p>
+	</iframe>
+</object>
